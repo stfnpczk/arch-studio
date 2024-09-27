@@ -18,8 +18,6 @@ This is a solution to the [Arch Studio multi-page website challenge on Frontend 
   - [Useful resources](#useful-resources) -->
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -35,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com) **UPDATE**
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) **UPDATE**
+- [Frontend Mentor - solution URL](https://www.frontendmentor.io/solutions/arch-studio-built-w-react-tailwind-nextjs-8WayB0Xcwe)
+- [Live Demo](https://arch-studio-blue-six.vercel.app/)
 
 ## My process
 
